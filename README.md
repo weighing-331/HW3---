@@ -175,6 +175,7 @@ plt.show()
 ```
 ## 執行結果
 動畫模擬排序過程
+
 ![Figure_1](https://github.com/weighing-331/HW3_quick-sort/assets/68834074/5c569202-9e2e-446f-a3ab-123050afecfa)
 ![anime](https://github.com/weighing-331/HW3_quick-sort/assets/68834074/69e15e3b-8f15-4ff4-9508-c89fee087549)
 
